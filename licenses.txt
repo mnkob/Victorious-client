@@ -1,4 +1,4 @@
-VcTClient-X9C7-2A11|6bd65c3bb210d188515cd5eaa096d1f9b0433bac16682b7d3420d83bdca36b92|disabled
+VcTClient-X9C7-2A11|6bd65c3bb210d188515cd5eaa096d1f9b0433bac16682b7d3420d83bdca36b92|active
 VcTClient-A7D4-9K21|92b62fa695b10b4d54e83c6445b0afb2e98a3d67c14da66138af450bfc297e01|active
 VcTClient-X3M8-7P45||unused
 VcTClient-B9T2-4N67||unused
