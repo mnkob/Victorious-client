@@ -1,7 +1,7 @@
 {
 	"client": {
-		"version": "0.0.25",
-		"url": "https://github.com/mnkob/Victorious-client/releases/download/v0.0.25/fusion-plus.dll"
+		"version": "0.0.26",
+		"url": "https://github.com/mnkob/Victorious-client/releases/download/v0.0.26/fusion-plus.dll"
 	},
 	"injector": {
 		"version": "0.0.3",
