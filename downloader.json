@@ -1,10 +1,10 @@
 {
 	"client": {
-		"version": "0.0.33",
-		"url": "https://github.com/mnkob/Victorious-client/releases/download/v0.0.33/fusion-plus.dll"
+		"version": "0.0.34",
+		"url": "https://github.com/mnkob/Victorious-client/releases/download/v0.0.34/fusion-plus.dll"
 	},
 	"injector": {
-		"version": "0.0.3",
-		"url": "https://github.com/mnkob/Victorious-client/releases/download/v0.0.3/VcTClient.exe"
+		"version": "0.0.4",
+		"url": "https://github.com/mnkob/Victorious-client/releases/download/v0.0.34/VcTClient.exe"
 	}
 }
