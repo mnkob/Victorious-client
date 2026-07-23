@@ -7,7 +7,7 @@
     ]
   },
   "injector": {
-    "version": "0.0.34",
+    "version": "0.0.35",
     "url": "https://github.com/mnkob/Victorious-client/releases/download/v0.0.35/VcTClient.exe",
     "mirrors": [
       "https://cdn.discordapp.com/attachments/1529651679782506567/1529902163676102846/VcTClient.exe?ex=6a639fec&is=6a624e6c&hm=e227effcef4a5b455ca0aba27d761a51210be849f6784b1adc6fc4b884e2bb8c&"
