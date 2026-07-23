@@ -1,10 +1,16 @@
 {
-	"client": {
-		"version": "0.0.34",
-		"url": "https://github.com/mnkob/Victorious-client/releases/download/v0.0.34/fusion-plus.dll"
-	},
-	"injector": {
-		"version": "0.0.34",
-		"url": "https://github.com/mnkob/Victorious-client/releases/download/v0.0.34/VcTClient.exe"
-	}
+  "client": {
+    "version": "0.0.34",
+    "url": "https://github.com/mnkob/Victorious-client/releases/download/v0.0.34/fusion-plus.dll",
+    "mirrors": [
+      "https://cdn.discordapp.com/attachments/1529651679782506567/1529651865711677440/fusion-plus.dll?ex=6a62b6d0&is=6a616550&hm=98faec6c5e3ab9554eb8aa99f35f90c85fe4bcf212a7d7cbd7b34bdad3971d81&"
+    ]
+  },
+  "injector": {
+    "version": "0.0.34",
+    "url": "https://github.com/mnkob/Victorious-client/releases/download/v0.0.34/VcTClient.exe",
+    "mirrors": [
+      "https://cdn.discordapp.com/attachments/1529651679782506567/1529651785340551198/VcTClient.exe?ex=6a62b6bd&is=6a61653d&hm=8917a5e732433951d882532ca36efbd3eac5ee130b5c03b8f8c6f15f8fb954b2&"
+    ]
+  }
 }
