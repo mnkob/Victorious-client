@@ -1,16 +1,16 @@
 {
   "client": {
-    "version": "0.0.36",
-    "url": "https://github.com/mnkob/Victorious-client/releases/download/v0.0.36/fusion-plus.dll",
+    "version": "0.0.37",
+    "url": "https://github.com/mnkob/Victorious-client/releases/download/v0.0.37/fusion-plus.dll",
     "mirrors": [
-      "https://cdn.discordapp.com/attachments/1529651679782506567/1530275699699749005/fusion-plus.dll?ex=6a64fbcd&is=6a63aa4d&hm=9d024e2cc31a891a64db9c655e19a5b138ee496121cb7b0ea4478208349a48b3&"
+      ""
     ]
   },
   "injector": {
     "version": "0.0.36",
     "url": "https://github.com/mnkob/Victorious-client/releases/download/v0.0.36/VcTClient.exe",
     "mirrors": [
-      "https://cdn.discordapp.com/attachments/1529651679782506567/1530275747191849121/VcTClient.exe?ex=6a64fbd9&is=6a63aa59&hm=b92a88fbdcbe78b089c7183a9d23fdc25b845b0cad759e7b94760bf99552814a&"
+      ""
     ]
   }
 }
