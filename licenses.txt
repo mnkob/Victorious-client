@@ -46,3 +46,5 @@ VcTClient-U6H8-4J13||unused
 VcTClient-U6H8-4J14||unused
 VcTClient-U6H8-4J18||unused
 VcTClient-M7A2-3N33|cbb38205e842b468f5668c2246118afafc4e9e5ec6b9439e327f6a2116b34385|active
+VcTClient-J8A7-8N99||unused
+VcTClient-H7B6-5G81||unused
